@@ -1,0 +1,5 @@
+org.phoenix.mobile.action
+org.phoenix.mobile.android.action
+org.phoenix.mobile.ios.action
+org.phoenix.mobile.powertools
+org.phoenix.phoenix_mobiledriver

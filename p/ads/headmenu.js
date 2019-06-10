@@ -1,0 +1,8 @@
+document.write("<ul id='sddm'><li class='CurrentLi'>")
+document.write("<a href='/p/'>网站首页</a></li>") 
+document.write("<li><a href='/p/About/index.html' onmouseover=mopen('m2') onmouseout='mclosetime()'>工具介绍</a> <div id='m2' onmouseover='mcancelclosetime()' onmouseout='mclosetime()'><a href='/p/About/web/index.html'>WEB测试工具</a> <a href='/p/About/mobile/index.html'>手机测试工具</a> <a href='/p/About/deploy/index.html'>部署方式介绍</a><a href='/p/version/index.html'>版本升级轨迹</a> </li> ")
+document.write("<li><a href='#' onmouseover=mopen('m4') onmouseout='mclosetime()'>使用教程</a> <div id='m4' onmouseover='mcancelclosetime()' onmouseout='mclosetime()'><a href='/p/html/web-addUnit.html'>新增测试用例</a> <a href='/p/html/web-editPlan.html'>新增测试计划</a> <a href='/p/html/web-editScenario.html'>新增测试场景</a> <a href='/p/html/web-scenaexe.html'>测试场景启动<a href='/p/html/web-editdata.html'>数据信息维护</a> <a href='/p/html/web-editdistri.html'>分布式配置</a> <a href='/p/html/web-monitorlocal.html'>本地执行监控</a><a href='/p/html/web-monitorext.html'>分机执行监控</a><a href='/p/support/index.html'>常见问题速查</a><a href='/p/version/index.html'>升级过程指导</a></div></li> ")
+document.write("<li><a href='#' onmouseover=mopen('m5') onmouseout='mclosetime()'>视频演示</a> <div id='m5' onmouseover='mcancelclosetime()' onmouseout='mclosetime()'><a href='/p/html/web-video-scenexe.html'>场景执行</a> <a href='/p/html/web-video-editdata.html'>数据维护</a> <a href='/p/html/web-video-extenconfig.html'>分布式配置</a> <a href='/p/html/web-video-reorder.html'>屏幕录制及回放</a></div></li>")
+document.write("<li><a href='/p/download/index.html'>下载专区</a></li><li><a href='/p/contact/index.html'>联系方式</a></li> ")
+document.write("<li><a href='/feedback/index.asp' target='_blank'>交流心得</a></li> ")
+document.write("</ul>")

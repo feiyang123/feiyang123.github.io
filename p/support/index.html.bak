@@ -1,0 +1,304 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>问题速查_Phoenix Framework</title>
+<meta name="keywords" content="下载" />
+<meta name="description" content="" />
+<link rel="shortcut icon" type="image/x-icon" href="/images/up_images/desktop.ico" media="screen" />
+<link href="../css/Netbeike4.3/inner.css" rel="stylesheet" type="text/css" />
+<link href="../css/Netbeike4.3/common.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="../js/jquery.min.js"></script>
+<script type="text/javascript" src="../js/functions.js"></script>
+<script type="text/javascript" src="../images/iepng/iepngfix_tilebg.js"></script>
+<style type="text/css">
+<!--
+.STYLE1 {font-size: 16px}
+.STYLE5 {font-size: 14px; color: #0000FF; }
+.STYLE7 {font-size: 14px}
+.STYLE9 {font-size: 14px; font-weight: bold; }
+
+.reg{ color:#000;}
+body{ position:relative;}
+
+#content{ height:21px; padding:0 2px; border:0px solid #ccc; position:absolute; right:50px; display:none;}
+
+-->
+</style>
+</head>
+
+<body>
+<div id="content"><a href="#topTo"><img src='../images/top.jpg' border=0></a></div>
+<div id="wrapper">
+
+<!--head start-->
+<div id="head">
+
+<!--top start -->
+<div class="top">
+<div class="TopInfo"><div class="link">词条：<a href="http://baike.baidu.com/link?url=3jW4cI6szkumjTW6ITr4e71_taQQ6m5rN7DeQ-M9OBG7issTGyPoYC8QMRdgprj3l2IEmBg05Jm-rEHe5IGrP_" target="_blank">Phoenix Framework</a></div>
+</div>
+<div class="clearfix"></div>
+<div class="TopLogo">
+<div class="logo"><a href="/"><img src="../images/up_images/LOGO.png" alt="Phoenix Framework"></a></div>
+<div class="tel">
+<p class="telW">联系方式</p>
+<p class="telN">5156meng.feiyang@163.com</p>
+</div>
+</div>
+
+</div>
+<!--top end-->
+
+<!--nav start-->
+<div id="NavLink">
+<div class="NavBG">
+<!--Head Menu Start-->
+<script src='/ADs/headmenu.js' charset='gbk' type='text/javascript'></script>
+<!--Head Menu End-->
+</div>
+<div class="clearfix"></div>
+</div>
+<!--nav end-->
+
+</div>
+<!--head end-->
+<!--body start-->
+<div id="body">
+<!--focus start-->
+<div id="InnerBanner">
+<script src='/ADs/112.js' type='text/javascript'></script>
+</div>
+<!--foncus end-->
+<!--inner start -->
+<div class="inner">
+<!--left start-->
+<div class="left">
+
+<div class="list">
+
+
+</div>
+<div class="Sbox">
+<div class="topic">联系我们   Contact</div>
+<div class="txt ColorLink">
+<script src='/ads/content.js' charset='gbk' type='text/javascript'></script>
+<p align='center'>
+<a target="blank" href="http://wpa.qq.com/msgrd?v=3&uin=296595606&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:296595606:41" alt="点击这里给我发消息" title="点击这里给我发消息" align="absmiddle"/></a>
+
+<a target="blank" href="http://wpa.qq.com/msgrd?V=1&Uin=873146554&Site=qq&Menu=yes"><img border="0" SRC=http://wpa.qq.com/pa?p=1:873146554:41 alt="点击这里给我发消息" title="点击这里给我发消息" align="absmiddle"></a>
+ </p></div>
+</div>
+
+<div class="HeightTab clearfix"></div>
+<div class="Sbox">
+<div class="topic">&nbsp;</div>
+<div class="SearchBar">
+
+</div>
+</div>
+</div>
+<!--left end-->
+<!--right start-->
+<a name="topTo" id="topTo"></a>
+<div class="right">
+<div class="Position"><span>你的位置：<a href="/">首页</a> > <a href='/support/'>问题速查</a></span></div>
+<div class="HeightTab clearfix"></div>
+<!--main start-->
+<div class="main">
+
+<!--content start-->
+<div class="content">
+<div class="maincontent clearfix">
+<p class="STYLE7">速查导航：</p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><a href="#QA1" class="STYLE5">如何支持多批数据</a></td>
+      <td><a href="#QA2" class="STYLE5">如何设置检查点</a></td>
+      <td><a href="#QA3" class="STYLE5">流程中如何走检查点分支</a></td>
+    </tr>
+    <tr>
+      <td><a href="#QA4" class="STYLE5">正常运行环境</a></td>
+      <td><a href="#QA5" class="STYLE5">客户端无法连接到MySql服务器</a></td>
+      <td><a href="#QA6" class="STYLE5">如何为MySql用户名和密码加密</a></td>
+    </tr>
+    <tr>
+      <td><a href="#QA7" class="STYLE5">为何创建数据库总不成功</a></td>
+      <td><a href="#QA8" class="STYLE5">如何使用定制浏览器录制属性</a></td>
+      <td><a href="#QA9" class="STYLE5">如何使用分布式批量执行场景</a></td>
+    </tr>
+    <tr>
+      <td><a href="#QA10" class="STYLE5">如何使用用例及数据的导入导出模块</a></td>
+      <td><a href="#QA11" class="STYLE5">了解执行过程录制及回放</a></td>
+      <td><a href="#QA12" class="STYLE5">隐藏功能的开启与关闭</a></td>
+    </tr>
+	<tr>
+      <td><a href="#QA13" class="STYLE5">通过FTP上传测试报告及FTPServer配置</a></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+		<tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+<div class="IntroTitle clearfix"><h3 class="STYLE1">如何支持多批数据<a name="QA1" id="QA1"></a></h3></div>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;程序是支持多批数据的。程序配置了多批测试数据后，如果多个操作的数据批次不一致，如setText操作需要5批测试数据，而gotoWindow只需一批数据，此时可以为setText配置5批数据，而为gotoWindow配置1批数据即可。执行时，程序会按用例中数据批次最多的操作单元进行循环，其他操作单元数据批次不够的，则自动取角标最大的数据批次，即取最后一批数据。在测试报告中，会详细的体现出各个数据批次的执行情况以及检查点的情况。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="STYLE7">1、在首次创建用例时添加多批数据，如setText操作，此时我们可以在“数据用例数据或属性值”文本框中输入多批数据，在多个数据之间使用","符号分隔开。如下图：</span></p>
+<p align="center"><div class='albumblock'><div class='inner' align="center"><img src="../images/page/多批次数据.jpg" alt="多批次数据" title="多批次数据" /></div></div></p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="STYLE7">2、使用数据维护模块，给用例添加多批数据</span></p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可使用数据维护模块，为用例添加多批数据（亦可修改数据批次）。方法是:开启维护模式后，在Table中即可直接添加数据，之后保存到数据库即可。如图：</p>
+<p align="center"><div class='albumblock'><div class='inner' align="center"><img src="../images/page/多批次数据2.jpg" alt="多批次数据" title="多批次数据" /></div></div></p>
+<div class="IntroTitle clearfix"><h3 class="STYLE1">如何设置检查点<a name="QA2" id="QA2"></a></h3>
+</div>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在程序中设置检查点非常方便。目前工具支持两种检查点：判断值是否相等和判断元素是否存在。后续会根据大家需求陆续加入。程序中默认使用的检查点为判断元素是否存在，在执行每一个操作步骤之前都会进行元素是否存在的校验。下面我们说一下如何插入检查点。</p><p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一种方式是在创建用例的时候就插入检查点，这需要您在创建用例之前就要做好用例的设计工作。方法是为在程序主界面的“操作单元编辑”标签中插入检查点，并为检查点提供相应的数据，然后点击“新增操作单元”保存的数据库。如图：</p><p align="center" class="STYLE7"><div class='albumblock STYLE7'><div class='inner' align="center"><img src="../images/page/checkpoint1.jpg" alt="插入检查点方法" title="插入检查点方法" /></div></div></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="STYLE7">第二种方式是在维护测试数据标签插入检查点。可直接在“检查点类型”一列中输入检查点，并在“期望值”一列输入期望值。需要说明的是，在您输入检查点类型前，请检查当前的操作步骤是否会为检查点提供预期值。如 <em>getText</em>可提供，<em>wait</em>操作则不能提供。否则会导致您插入的检查点检查失败。下图为在数据维护界面插入检查点：</span></p>
+<p align="center" class="STYLE7"><div class='albumblock STYLE7'><div class='inner' align="center"><img src="../images/page/checkpoint2.jpg" alt="插入检查点方法" title="插入检查点方法" /></div></div></p>
+<div class="IntroTitle clearfix"><h3 class="STYLE1">流程中如何走检查点分支<a name="QA3" id="QA3"></a></h3>
+</div>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们在执行流程是通常会走一些分支流程，如条件为“真”时走流程1，条件为“假”时走流程2。在本工具中，由于是直接执行测试数据，所以不支持特复杂的分支语句。目前程序中支持两种比较常用的如：if...else...和for循环。后续可将逻辑语句较为复杂的用例单独保存在一个类中，由程序反射执行，测试结果会同样在测试报告中体现。但我们建议您这样的用例越少越好，否则会给项目的部署带来维护上的困难。在本程序中如果要走分支流程，需要用到一个关键方法：<strong>checkPointStatusAct</strong>，字面意义为：检查点状态行为。使用本方法时要注意以下两点：</p><p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、该方法只适用于插入该方法前的一个检查点返回的状态<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、该检查点需要提供两个独立的检查点用例，检查点用例结构与普通用例结构一致。<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、步骤类型提供参数，格式为：检查点成功时用例名:检查点失败时用例名。</p>
+<span class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可在编辑操作单元标签页和用例及数据维护标签页插入checkPointStatusAct方法。步骤与 <a href="#QA2"><em>如何设置检查点</em></a> 一致。不在赘述。</span></div>
+<div class="IntroTitle clearfix"><h3 class="STYLE1">正常运行环境<a name="QA4" id="QA4"></a></h3></div>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phoenix Framework的经典部署模式可在以下环境正常运行：</p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、Windows平台<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、IE系列（IE6,IE7,IE8,IE9），支持64位<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、Chrome浏览器最高稳定支持到 Chrome 28.0<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4、Firefox浏览器最高稳定支持到 Firefox 24.0</p>
+<div class="IntroTitle clearfix"><h3 class="STYLE1">客户端无法连接到MySql服务器<a name="QA5" id="QA5"></a></h3></div>
+<p class="STYLE7"><span class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;问题表现：<br />
+    <span class="FontRed">1、Mysql:is not allowed to connect to this MySQL server</span><br />
+    <span class="FontRed">2、ERROR 1130: Host '192.168.1.3' is not allowed to connect to this MySQL server</span></span><br /></p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="STYLE7">以下两种方法可以解决问题：</span></p>
+<p class="STYLE7"><span class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、 改表法。可能是你的帐号不允许从远程登陆，只能在localhost。这个时候只要在localhost的那台电脑，登入mysql后，更改 "mysql" 数据库里的 "user" 表里的 "host" 项，从"localhost"改称"%"，如SQL：<br />
+  mysql -u root -pvmwaremysql>use mysql;mysql>update user set host = '%' where user = 'root';mysql>select host, user from user;</span><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="STYLE7">2、授权法。例如，你想myuser使用mypassword从任何主机连接到mysql服务器的话：
+GRANT ALL PRIVILEGES ON *.* TO 'myuser'@'%' IDENTIFIED BY 'mypassword' WITH GRANT OPTION;<br />
+如果你想允许用户myuser从ip为192.168.1.3的主机连接到mysql服务器，并使用mypassword作为密码：<br />
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'192.168.1.3' IDENTIFIED BY 'mypassword' WITH GRANT OPTION;</span></p>
+<div class="IntroTitle clearfix"><h3 class="STYLE1">如何为数据库用户名和密码加密<a name="QA6" id="QA6"></a></h3></div>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="STYLE7">&nbsp;Phoenix Framework有一套属于自己的加密解密算法。初次使用时，需要在phoenix.properties配置文件中为连接数据库方式填写正常的用户名和密码，待打开Phoenix Framework主界面之后，可以调用账号维护模块为用户名和密码加密。然后将加完密的用户名或密码在在phoenix.properties中更改一下即可。程序会自动匹配加密或不加密的用户名和密码，需要注意的是用户名和密码需要同时被加密或同时使用不加密的方式，否则会导致连接数据库失败。</span></p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可在主界面点击“工具”，点击“账户维护”来启动该功能，启动后需要输入管理员的用户名和密码，此账户是在数据库中config表里面配置的。初始的用户名和密码为均admin，如图：</p><br />
+<p align="center"><img src="../images/page/admin.jpg" border="0" title="账户维护界面" alt="账户维护界面"/></p><br />
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="STYLE7">登陆成功后，在“源字符串”中输入要加密或解密的字符串，然后点击“加密字符”或解密字符即可。最后将“转换后的字符串”中文本框中的内容复制到您所需要的地方即可。如图：</span></p><br />
+<p align="center"><img src="../images/page/Stringcopy.jpg" border="0" title="字符串加密解密界面" alt="字符串加密解密界面"/></p><br />
+
+<div class="IntroTitle clearfix"><h3 class="STYLE1">创建 phoenix 数据库步骤<a name="QA7" id="QA7"></a></h3></div>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="STYLE7">如果没能足够关注创建 phoenix 数据库时的一些细节，则数据库创建会失败。下面我们是创建数据库的步骤：</span></p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../images/media-playback-stop.png" /> <strong>1、获得创建数据的SQL脚本：</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;创建SQL的脚本文件可以在安装程序的根目录下的“phoenix/phoenixsql/phoenix-all.sql”下找到。</p><p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../images/media-playback-stop.png" /> <strong>2、在MySql的客户端运行该批次任务文件（前提是MySql数据库安装的没有问题）：</strong><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如选择 <a href="/download/" target="_blank">Navicatcat Lite for MySql</a> 作为MySql的客户端，使用该客户端连接到MySql数据库之后，在“连接”区先双击“localhost”（默认），然后再在右击“localhost”在弹出的菜单中选择：运行批次任务文件。如图：</p>
+<br />
+<p align="center"><img src="../images/page/phoenixdb create-1.JPG" border="0" /></p><br />
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../images/media-playback-stop.png" /> <span class="STYLE9">3、执行批次任务文件</span></p><p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在弹出的窗口中，首先要保证“数据库：”字段后面的值为：N/A，否则会创建失败。然后选择批次任务文件，如：phoenix-all.sql。最后点击“开始”即可，几秒钟后即可创建成功。如图：</p><br />
+<p align="center"><img src="../images/page/phoenixdb create-2.JPG" title="执行任务批次SQL" alt="执行任务批次SQL" /></p><br />
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../images/media-playback-stop.png" /><span class="STYLE9"> 4、校验成功状态</span></p><p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;待接下来的页面显示“successfully”时，说明批次任务被成功执行完成。如图：</p><br />
+<p align="center"><img src="../images/page/phoenixdb create-3.JPG" /></p><br /><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="STYLE7">最后刷新一下Navicatcat的连接区，即可看到phoenix数据库，点击它就能看到各个表了。如图： </span></p><br /><p align="center"><img src="../images/page/phoenixdb create-4.JPG" /></p><br />
+
+<div class="IntroTitle clearfix"><h3 class="STYLE1">如何使用定制浏览器录制属性<a name="QA8" id="QA8"></a></h3></div>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="STYLE7">在1.1.9版本新增了使用定制的浏览器来录制页面元素属性的功能，该功能旨在帮助工具使用人员能快速的找到元素定位信息，如id,name,xpath,class等。该浏览器嵌入的是IE核心，所以IE能正常显示的界面，该浏览器均能显示。除此之外，在Phoenix Framework中使用到浏览器的地方，如查看报告，帮助等，不在调用操作系统的浏览器，而是直接使用该浏览器进行打开。相信该模块能给大家带来一些惊喜。下面我们讲一下如何正确使用该浏览器录制属性。</span></p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首先在程序主界面选择好保存操作单元的用例，然后选择好操作。该操作很重要，浏览器会判断该操作是否需要定位信息，如果不需要定位信息的话，是不能录制属性的。选择完成之后点击界面上的“属性捕捉”按钮，即打开了浏览器，如图：</p>
+<br />
+<p align="center"><img src="../images/page/ibrowser.jpg" title="浏览器初始化界面" alt="浏览器初始化界面" /></p><br />
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="STYLE7">&nbsp;&nbsp;然后在地址栏打开您自己的地址，此时处于正常浏览器模式，与正常浏览器浏览网页一致。然后点击地址栏旁边的”正常“按钮，即可切换到”录制“模式，然后鼠标单击页面上的被测元素，即可在程序的主界面看到定位信息了，同时在浏览器界面会给一些醒目提示，并使连接功能失效。如图：</span></p><br /><p align="center"><div class='albumblock'><div class='inner' align="center"><img src="../images/page/pagetest.jpg" alt="属性录制演示" title="属性录制演示" /></div></div></p><br />
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们再来看看页面源代码中的元素属性，如图：</p><br />
+<p align="center"><div class='albumblock'><div class='inner' align="center"><img src="../images/page/attrilook.jpg" alt="源码中页面的属性" title="源码中元素的属性" /></div></div></p><br /><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="STYLE7">与我们录制的完全一致。属性录制成功。单步录制完成后，我们还需要在主界面填写该步骤的备注信息，很重要。并要保存到数据库之后才能录制下一个操作步骤。</span></p><br />
+<div class="IntroTitle clearfix"><h3 class="STYLE1">如何配置分布式批量执行场景<a name="QA9" id="QA9"></a></h3></div>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在1.1.10版本中新增了批量配置场景使用分布式执行功能，该功能的使用方法如下：</p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一步：装载执行机，点击“装载执行机”按钮即可，方法同 <a href="../html/web-editdistri.html">分布式配置</a></p>
+<p><span class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二步：装载场景库，如图，在“选择场景”一栏中，选择待执行的场景，在“操作”一栏中，点击“添加到场景库...”</span></p>
+<p align="center"><div class='albumblock'><div class='inner' align="center"><img src="../images/page/extadd.jpg" alt="多批次场景" title="多批次场景" /></div></div></p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第三步：重复第二步继续添加即可，在场景库一栏中可以审查添加的场景，并且可以修改。</p>
+<br />
+<div class="IntroTitle clearfix"><h3 class="STYLE1">如何使用用例及数据的导入导出模块<a name="QA10" id="QA10"></a></h3></div>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014年1月25日发布的Phoenix Framework 1.1.12版本引入了测试用例及数据导入导出模块，通过该模块可批量导入导出测试数据。下面看一下方法：</p>
+<span class="STYLE7"><br />
+模块界面：</span><br /><br /><p align="center"><img src="../images/page/dataimport.jpg" align="middle" alt="数据导入导出界面" title="数据导入导出界面" /></p><br />
+<p class="STYLE7"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、测试用例及数据导入</strong></p><br />
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一步：导入数据前，点击“仔细查看模板”，要严格按照模板进行填写，这样才能顺利将数据导入到数据库。支持Excel   2003,2007,2010。</p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二步：点击“选择数据表”按钮，打开文件选择窗口，选择一个扩展名为：.xls 或   .xlsx的文件，如果不是这种扩展名的文件则会给出错误提示。提示信息在：信息：展示区以醒目颜色       进行展示。如图：</p><br />
+<p align="center"><img src="../images/page/selecttable.jpg" align="middle" alt="数据表选择界面" title="数据表选择界面" /></p><br />
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第三步：选择了正确的表之后，程序会自动解析该表，将该表下所有的Sheet页的名称加载到“选择Sheet页”下拉框中。</p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第四步：如果是测试用例，且勾选了是否覆盖用例复选框，则导入时，会自动覆盖已存在的用例，否则导入时会给出“用例已存在的提示。</p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第五步：也可直接在”请先选择数据表“文本域中粘贴您的Excel表地址，然后在地址末尾直接回车即可（若不是在末尾回车，程序会给出错误提示），程序会自动加载Sheet页到”选择sheet页“下拉框。最后点击“导入测试数据”或“导入测试用例”按钮即可。</p><br />
+<p class="STYLE7"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、导出测试用例及数据</strong></p><br />
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;步骤一：可点击“存放目录”连接，打开存放的目录</p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;步骤二：程序会将数据库中存在的所有测试用例自动加载到“选择用例名称”下拉框中，选择一个用例后，点击“导出测试用例”或“导出测试数据”按钮即可。导出数据表位置会在程序下方的信息展示区展示，点击它会自动调用相应程序打开。如图：</p><br />
+<p align="center"><img src="../images/page/dataexport.jpg" align="middle" alt="数据导出界面" title="数据导出界面" /></p>
+<br />
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不管是导入还是导出，整个过程程序都会有实时进度提示。</p>
+<p align="center">&nbsp;</p>
+<div class="IntroTitle clearfix"><h3 class="STYLE1">了解执行过程录制及回放<a name="QA11" id="QA11"></a></h3></div>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phoenix Framework 1.1.13发布了，新增了执行过程录制回放模块。</p><br />
+<p class="STYLE7"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、实例演示</strong></p><br />
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.在Phoenix   Framework的配置文件phoenix.properties中将“RecordScenario=true”设置为true之后，就开启了视频录制功能。视频以场景为单位保存。</p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.在测试实验室中点击“启动场景”后，屏幕录制即已经开始。该场景执行完成后，录制即也结束。在测试报告中可看到视频，视频格式为.flv，方便在网页中直接播放。如图：</p>
+<p class="STYLE7">点击“执行过程回放”：</p><br />
+<p align="center" class="STYLE7"><img src="../images/page/reportmain.jpg" alt="测试报告页面" title="测试报告页面" /></p><br />
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.在右边的frame中即展开了该场景的视频，点击即可播放。如图：</p><br />
+<p align="center" class="STYLE7"><img src="../images/page/flash.jpg" alt="测试报告页面" title="测试报告页面" /></p><br />
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.可通过flash界面的控制按钮控制视频。</p><br />
+<p class="STYLE7"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、实现原理</strong></p><br />
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.通过java自带的robot方法按一定频率进行截屏，先驻留内存中</p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.首先按avi编码循环持续压制，持续存储到硬盘</p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.使用ffmpeg.exe压缩转换成flv格式，压缩率30:1，即将30M的avi视频能压缩到1M的flv，且播放效果损失不太大</p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.整个过程都是在后台完成</p>
+<p>&nbsp;</p>
+<div class="IntroTitle clearfix"><h3 class="STYLE1">隐藏功能的开启与关闭<a name="QA12" id="QA12"></a></h3></div>
+<p class="STYLE7">Phoenix Framework WEB自动化测试工具的配置文件中，有一些很实用的功能开关默认是关闭的。下面介绍一下这些功能，在实际的自动化测试工作中可以选择使用：</p>
+<ol class="STYLE7" start="1"><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../images/arrow-list.gif" />1 - 在配置文件中，将“Delay”关键字设置为“true”，将打开脚本延迟功能。“DelayTime”可设置延迟时间。开启后，两个操作步骤之间将会有时间延迟，可通过此功能调整用例的执行速度。</li><br /><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../images/arrow-list.gif" />2 - 在配置文件中，将“LocatorDisplay”关键字设置为“true”，可开启定位信息显示功能。执行过程中，操作元素时，将显示使用的是哪一种定位信息。如：id，name等。可在log中看到这些信息。</li><br /><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../images/arrow-list.gif" />3 - 在配置文件中，将”CMFlag“关键字设置为”YES”后，将开启CPU，内存的监控功能。在“MemoryLimit”和“CPULimit”关键字中设置阀值，执行过程中如果超过了这个阀值，将会在LOG中记录下来，可对应到哪一段的操作步骤引起内存或CPU的使用升高。</li><br /><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../images/arrow-list.gif" />4 - 在配置文件中，将”RecordScenario“关键字设置为”true“之后，将开启执行过程录制功能。可将场景的执行过程录制下来，并在测试报告中体现。使用此功能可快速重现Bug。</li><br /><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../images/arrow-list.gif" />5 - 在配置文件中，将”FTPServer.Flag“关键字设置为”true“之后，将开启使用FTP上传测试报告到服务器功能，在开头有"FTPServer"字样的关键字中配置FTPServer信息。可在服务器上直接看到每个分机的执行结果。</li><br /><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../images/arrow-list.gif" />6 - 在配置文件中，将”EMAIL.SEND.FLAG“关键字设置为”true“，可开启通过Email发送测试报告功能。在开头为“EMAIL”字样的关键字中配置Email地址和权限。</li><br /></ol>
+<p class="STYLE7">以上功能默认都是关闭的，可根据自己的项目情况选择使用</p>
+<div class="IntroTitle clearfix"><h3 class="STYLE1">通过FTP上传测试报告及FTPServer配置<a name="QA13" id="QA13"></a></h3></div>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;该功能是在 1.1.14 版本引入的，引入目的是为了能在服务端看到各个客户端的执行结果。启用该功能之前需要一些简单配置。</p>
+<p class="STYLE7">配置该功能只需2步：</p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.架设FTP服务器<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.修改Phoenix Framework配置文件<br /><br />下面分别看一下两个步骤的配置方法：</p>
+<p class="STYLE7"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.架设FTP服务器</strong></p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phoenix Framework推荐使用Quick Easy FTP Server来架设FTP服务器，这是一个非常轻量级、免费、免安装、且配置过程非常方便的FTP服务器。Phoenix Framework的FTP上传功能就是在它上面调试和测试的。程序可以在Phoenix Framework官网下载，版本4.0.0.0下载地址：<a href="/download/" target="_blank">下载专区</a>。</p><br />
+
+<p class="STYLE7">以下是配置Quick Easy FTP Server服务器信息界面：</p>
+<p align="center"><img width="700" src="../images/page/ftp1.jpg" title="FTPServer 主界面" alt="FTPServer 主界面" /></p><br />
+<p class="STYLE7">以下是Quick Easy FTP Server的用户账户管理界面：</p><br />
+<p align="center"><img width="700" src="../images/page/ftp2.jpg" title=" FTP Server的用户账户管理界面" alt=" FTP Server的用户账户管理界面" /></p><br />
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上两图的信息配置过程非常简单，启动Quick Easy FTP Server主程序后，只需3步即可完成以上信息的配置。启动Quick Easy FTP Server  FTP上传下载服务。</p>
+
+<p class="STYLE7">FTP服务器架设完成。</p>
+<p class="STYLE9">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.修改Phoenix Framework配置文件</p>
+<p>到Phoenix Framework程序的根目录找到 config文件夹，找到 phoenix.properties配置文件。用记事本等编辑工具打开，配置以下信息：</p>
+<p align="center"><img width="700" src="../images/page/ftp3.jpg" title="FTP上传报告功能开启" alt="FTP上传报告功能开启" /></p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;配置完成后，即可启动程序进行自动化测试了。测试完成后，程序会自动将测试报告打包上传到服务器的 F:\FTPServer\report\目录下。查看执行LOG：</p><p align="center"><img width="700" src="../images/page/ftp4.jpg" title="LOG中查看上传结果" alt="LOG中查看上传结果" /></p>
+<p class="STYLE7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;说明报告上传成功，如果期间有任何异常不仅能在该LOG中查看到，在Phoenix Framework的主程序中也能查看到。</p>
+
+<p class="STYLE7">Phoenix Framework配置FTP服务器信息完成！</p>
+<p>&nbsp;</p>
+</div>
+<!--content end-->
+
+</div>
+<!--main end-->
+</div>
+<!--right end-->
+</div>
+<!--inner end-->
+</div>
+<!--body end-->
+<div class="HeightTab clearfix"></div>
+<!--footer start-->
+<div id="footer">
+<div class="inner">
+<div class='BottomNav'>
+<script src='/ads/footer.js' charset='gbk' type='text/javascript'></script>
+</div>
+<div class='HeightTab'></div>
+<p>Copyright@2013-2015 <a href='http://www.phoenixframe.org' target='_blank'>www.phoenixframe.org</a> 版权所有 All Rights Reserved 
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000194213'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000194213%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+</div>
+</div>
+<!--footer end -->
+
+
+</div>
+<!-- JiaThis Button BEGIN -->
+<script type="text/javascript" src="/ads/gotoTop.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jiathis_r.js?btn=r3.gif" charset="utf-8"></script>
+<!-- JiaThis Button END -->
+</body>
+</html>
+
+
+
+

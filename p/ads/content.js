@@ -1,0 +1,7 @@
+document.write("<p>地址：北京市朝阳区阿里中心望京A座</p>")
+document.write("<p>QQ交流群：<a href='http://url.cn/RGvmOT' target='_blank'>246776066</a></p>")
+document.write("<p>QQ：296595606</p>")
+document.write("<p>微信号：phoenixframe_2013</p>")
+document.write("<p>新浪微薄：不吐鱼的泡泡05</p>")
+document.write("<p>腾讯微博：mengfeiyanglove</p>")
+document.write("<p>网站：<a href='http://www.cewan.la' target='_blank'>www.cewan.la </a> </p>")

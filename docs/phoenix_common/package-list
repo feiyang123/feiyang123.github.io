@@ -1,0 +1,8 @@
+org.phoenix.checkpoint
+org.phoenix.enums
+org.phoenix.model
+org.phoenix.plugin.model
+org.phoenix.plugins
+org.phoenix.utils
+org.phoenix.web.enums
+org.phoenix.web.model

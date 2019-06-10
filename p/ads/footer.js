@@ -1,0 +1,1 @@
+document.write("<a href='/'>网站首页</a> | <a href='About/web'>产品介绍</a> | <a href='feedback/'>服务支持</a> | <a href='author/'>关于作者</a>")

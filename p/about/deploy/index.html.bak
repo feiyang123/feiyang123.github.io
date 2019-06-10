@@ -1,0 +1,164 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>部署方式-经典部署</title>
+<meta name="keywords" content="WEB测试模块" />
+<meta name="description" content="WEB测试模块" />
+<link rel="shortcut icon" type="image/x-icon" href="../../images/up_images/desktop.ico" media="screen" />
+<link href="../../css/Netbeike4.3/inner.css" rel="stylesheet" type="text/css" />
+<link href="../../css/Netbeike4.3/common.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="../../js/functions.js"></script>
+<script type="text/javascript" src="../../images/iepng/iepngfix_tilebg.js"></script>
+<style type="text/css">
+<!--
+.STYLE1 {font-size: 14px}
+-->
+</style>
+</head>
+
+<body>
+<div id="wrapper">
+
+<!--head start-->
+<div id="head">
+
+<!--top start -->
+<div class="top">
+<div class="TopInfo"><div class="link">词条：<a href="http://baike.baidu.com/link?url=3jW4cI6szkumjTW6ITr4e71_taQQ6m5rN7DeQ-M9OBG7issTGyPoYC8QMRdgprj3l2IEmBg05Jm-rEHe5IGrP_" target="_blank">Phoenix Framework</a></div>
+</div>
+<div class="clearfix"></div>
+<div class="TopLogo">
+<div class="logo"><a href="/"><img src="../../images/up_images/LOGO.png" alt="Phoenix Framework"></a></div>
+<div class="tel">
+<p class="telW">联系方式</p>
+<p class="telN">5156meng.feiyang@163.com</p>
+</div>
+</div>
+
+</div>
+<!--top end-->
+
+<!--nav start-->
+<div id="NavLink">
+<div class="NavBG">
+<!--Head Menu Start-->
+<script src='../../ADs/headmenu.js' charset='gbk' type='text/javascript'></script>
+<!--Head Menu End-->
+</div>
+<div class="clearfix"></div>
+</div>
+<!--nav end-->
+
+</div>
+<!--head end-->
+<!--body start-->
+<div id="body">
+<!--focus start-->
+<div id="InnerBanner">
+<script src='../../ADs/112.js' type='text/javascript'></script>
+</div>
+<!--foncus end-->
+<div class="HeightTab clearfix"></div>
+<!--inner start -->
+<div class="inner">
+<!--left start-->
+<div class="left">
+<div class="Sbox">
+<div class="topic">部署方式   Deploy</div>
+<div class="blank"><ul>
+<li class='current'><A href='../../about/deploy/normaldeploy.html'>经典部署方式</A></li> 
+<li><A href='../../about/deploy/internetdeploy.html'>WEB部署方式</A></li> 
+
+</ul></div>
+</div>
+<div class="HeightTab clearfix"></div>
+<div class="Sbox">
+<div class="list">
+
+</div>
+
+</div>
+<div class="HeightTab clearfix"></div>
+<div class="Sbox">
+<div class="topic">联系我们   Contact</div>
+<div class="txt ColorLink">
+<script src='../../ads/content.js' charset='gbk' type='text/javascript'></script>
+<p align='center'>
+<a target="blank" href="http://wpa.qq.com/msgrd?v=3&uin=296595606&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:296595606:41" alt="点击这里给我发消息" title="点击这里给我发消息" align="absmiddle"/></a>
+
+<a target="blank" href="http://wpa.qq.com/msgrd?V=1&Uin=873146554&Site=qq&Menu=yes"><img border="0" SRC=http://wpa.qq.com/pa?p=1:873146554:41 alt="点击这里给我发消息" title="点击这里给我发消息" align="absmiddle"></a>
+ </p></div>
+</div>
+
+<div class="HeightTab clearfix"></div>
+<div class="Sbox">
+<div class="topic">&nbsp;</div>
+<div class="SearchBar">
+
+</div>
+</div>
+</div>
+<!--left end-->
+<!--right start-->
+<div class="right">
+<div class="Position"><span>你的位置：<a href="/">首页</a> > <a href='/about/deploy/'>部署方式</a> > <a href='/about/deploy/normaldeploy.html'>经典部署方式</a></span></div>
+<div class="HeightTab clearfix"></div>
+<!--main start-->
+<div class="main">
+
+<!--content start-->
+<div class="content">
+<div class="maincontent clearfix">
+<p align="center">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="STYLE1">经典部署方式只适用于Windows系统，因为需要安装Exe程序且适用到了系统的一些内部函数。下面讲解一下该模式的部署方式。</span></p>
+<div class="IntroTitle clearfix"><h3 class="STYLE8 STYLE1">经典部署模式说明</h3>
+</div>
+<p class="STYLE1">部署图：</p>
+<p><div align="center"><img src="../../images/page/phoenixnormaldeploy.jpg"  alt="Phoenix Framework经典部署图"  title="Phoenix Framework经典部署图" border="1" align="middle" /></div></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="STYLE1">&nbsp;部署图说明，服务端、客户端、存储层为相互分离的独立模块。<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;测试报告的数据也是存储在数据库中，但如果生成了报告实体，则会在服务端体现。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;测试报告是由测试客户端生成的。当然服务端自己也是客户端，也可以进行测试，适用于本地测试的情形。此时，测试报告是由服务端自己生成的。<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;无论客户端还是服务端，在执行过程中，都会连接同一数据库。服务端与客户端通信协议为Socket协议，客户端在执行过程中，如果服务端开启监控，则会实时向服务端报告自己的执行情况。</span></p>
+<p class="STYLE1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;经典部署模式讲解完毕，如果有疑问，请到 <a href="/feedback/" target="_blank">心得交流区</a> 提交您的留言。</p>
+</div>
+
+
+</div>
+<!--content end-->
+
+</div>
+<!--main end-->
+</div>
+<!--right end-->
+</div>
+<!--inner end-->
+</div>
+<!--body end-->
+<div class="HeightTab clearfix"></div>
+<!--footer start-->
+<div id="footer">
+<div class="inner">
+<div class='BottomNav'>
+<script src='../../ads/footer.js' charset='gbk' type='text/javascript'></script>
+</div>
+<div class='HeightTab'></div>
+<p>Copyright@2013-2015 <a href='http://www.phoenixframe.org' target='_blank'>www.phoenixframe.org</a> 版权所有 All Rights Reserved 
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000194213'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000194213%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+</p>
+</div>
+</div>
+<!--footer end -->
+
+
+</div>
+<!-- JiaThis Button BEGIN -->
+<script type="text/javascript" src="http://v3.jiathis.com/code/jiathis_r.js?btn=r3.gif" charset="utf-8"></script>
+<!-- JiaThis Button END -->
+</body>
+</html>
+
+
+
+
